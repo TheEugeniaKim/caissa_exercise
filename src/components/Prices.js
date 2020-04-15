@@ -46,9 +46,6 @@ class Prices extends React.Component {
   }
 
   render(){
-    // if (!this.props.securities.filter(security => security.id === this.props.securityPricesID)){
-    //   return window.location.reload(false)
-    // }
     const columns = [
       {
         Header: "Date",

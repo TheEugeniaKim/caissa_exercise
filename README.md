@@ -11,4 +11,4 @@ You should be able to view securities (loaded with dummy data right now) add/edi
 
 If you click on "Prices" for each security, a prices table should pop up as a modal. You should be able to add/edit/delete prices associated with each security. 
 
-Changes to the data will be stored in the local storage of your browser. Please use one browser (preferably Google Chrome) to interact with this front end web application. 
+Changes to the data will be stored in the local storage of your browser. Please use one browser (preferably Google Chrome) to interact with this front end web application.
