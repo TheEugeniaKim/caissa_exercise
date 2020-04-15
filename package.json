@@ -6,9 +6,20 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
+    "bootstrap": "^4.4.1",
+    "lodash": "^4.17.15",
+    "node-uuid": "^1.4.8",
     "react": "^16.13.1",
+    "react-bootstrap": "^1.0.0",
+    "react-country-region-selector": "^2.1.0",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1"
+    "react-redux": "^7.2.0",
+    "react-scripts": "3.4.1",
+    "react-table-v6": "^6.8.6",
+    "redux": "^4.0.5",
+    "redux-logger": "^3.0.6",
+    "redux-promise-middleware": "^6.1.2",
+    "redux-thunk": "^2.3.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -30,5 +41,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "devDependencies": {}
 }
